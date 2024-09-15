@@ -6,7 +6,7 @@ import { TooltipProvider } from "@/components/ui/tooltip";
 import Room from "./Room";
 
 export const metadata = {
-  title: "Frame Art",
+  title: "Concept Flow",
   description:
     "A minimalist website using fabric.js and Liveblocks for realtime collaboration",
 };
